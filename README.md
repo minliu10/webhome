@@ -12,3 +12,9 @@ Markdown
 # h1
 ## h2
 ### h3
+
+this show how to add an image  
+
+" ![image](url or route) "  
+example
+![BMO](image/BMO.jpg)
